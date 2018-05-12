@@ -1,4 +1,8 @@
 _repo: William-Sharp-Fiona-Macleod-A-Memoir-Compiled-by-his-wife-Elizabeth-A-Sharp_47344
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47344-h/images/cover.jpg
 creator:
   author:
     agent_name: Sharp, Elizabeth A. (Elizabeth Amelia)
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '44084'
     url: http://www.gutenberg.org/2009/agents/44084
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47344#William-Sharp-Fiona-Macleod-A-Memoir-Compiled-by-his-wife-Elizabeth-A-Sharp
 gutenberg_issued: '2014-11-13'
 gutenberg_type: Text
 identifiers:
